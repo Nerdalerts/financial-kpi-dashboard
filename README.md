@@ -93,33 +93,6 @@ Converted numerical analysis into strategic business conclusions.
 
 ---
 
-## 📁 Repository Structure
-financial-kpi-dashboard/
-│
-├── data/
-│ └── reliance_financials_clean.csv
-│
-├── sql/
-│ ├── schema.sql
-│ ├── kpi_queries.sql
-│ └── views.sql
-│
-├── python/
-│ └── analytics.py
-│
-├── powerbi/
-│ └── financial_dashboard.pbix
-│
-├── screenshots/
-│ ├── dashboardoverview.png
-│ ├── growth_overview
-│ └── kpi_cards.png
-│
-└── README.md
-
-
----
-
 ## 🧠 Skills Demonstrated
 - Data Cleaning & Validation  
 - SQL Querying & Window Functions  
