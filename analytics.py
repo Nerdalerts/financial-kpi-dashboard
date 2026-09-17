@@ -3,7 +3,7 @@ import sqlalchemy
 from sqlalchemy import create_engine
 
 from urllib.parse import quote_plus
-password = quote_plus("IITbomb@y123")
+
 
 engine = create_engine(
     f"postgresql+psycopg2://postgres:{password}@localhost:5432/finance_db"
